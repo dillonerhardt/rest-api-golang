@@ -1,0 +1,9 @@
+{
+    "database": {
+        "url": "mongodb://localhost"
+    },
+    "jwt": {
+        "secret": "secret"
+    },
+    "port": "3000"
+}
